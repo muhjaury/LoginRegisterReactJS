@@ -162,7 +162,7 @@ class Registration extends Component {
               >
                 {this.state.registrationInfo}
               </div>
-              <input className="btn-login" type="submit" value="Login" />
+              <input className="btn-login" type="submit" value="Register" />
             </form>
           </div>
         </div>
