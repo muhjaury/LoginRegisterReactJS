@@ -1,0 +1,66 @@
+html {
+    font-family: 'Arial';
+}
+
+.cardDashboard {
+    border-radius: 3px;
+    background: rgb(233, 233, 233);
+    padding: 20px;
+    width: 300px;
+    height: 180px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+label {
+    font-size: 12px;
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+body {
+    background-color: #478CCC;
+}
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btn-login {
+    width: 100%;
+    background-color: #478CCC;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.desc {
+    text-decoration: none;
+    margin-top: 140px;
+    font-size: 12px;
+    color: white;
+}
+
+.desc,
+a {
+    text-decoration: none;
+    color: white;
+}
